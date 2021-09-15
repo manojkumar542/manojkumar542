@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manojkumar542
+- 👋 Hi, I’m @manojkumar
 - 👀 I’m interested in Performance and Devops space
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Performance and Devops areas

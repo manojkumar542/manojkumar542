@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manojkumar
 - 👀 I’m interested in Performance and Devops space
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning cloud computing & Devops
 - 💞️ I’m looking to collaborate on Performance and Devops areas
 - 📫 How to reach me manojkumar753@gmail.com
 

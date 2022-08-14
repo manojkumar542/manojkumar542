@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manojkumar
-- 👀 I’m interested in Performance and Devops space
+- 👀 I’m interested in Devops & SRE space
 - 🌱 I’m currently learning cloud computing & Devops
-- 💞️ I’m looking to collaborate on Performance and Devops areas
+- 💞️ I’m looking to collaborate on Devops and SRE areas
 - 📫 How to reach me manojkumar753@gmail.com
 
 <!---
